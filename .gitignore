@@ -1,3 +1,3 @@
 # DONGRYEOLLEE1 Add
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*.ipynb_checkpoints 
