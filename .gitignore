@@ -2,3 +2,5 @@
 DL/.ipynb_checkpoints
 Data/aclImdb/
 Data/glove.6B/
+datasets/
+yolov5/
