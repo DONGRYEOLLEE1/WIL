@@ -4,3 +4,5 @@ Data/aclImdb/
 Data/glove.6B/
 datasets/
 yolov5/
+yolov5/yolov5s.pt
+yolov5/yolov5x.pt
